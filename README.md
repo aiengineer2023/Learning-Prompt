@@ -60,25 +60,15 @@
 最后，在读文档的过程中，你会看到以下几个 emoji：
 
 - 🚧 ：标有这个 emoji 代表内容，我还需要进一步去完善补充，但并不影响你的阅读。我会在后续迭代补充。
-- 🆘 ：这个代表我需要各位的帮助，比如有可能是希望大家给我一些某场景的 prompt 案例等。如果你有想法，不妨通过 Issue 或[表单](https://mcousdyt7h.feishu.cn/share/base/form/shrcn8p8MEmbkTiCDyVVPmdUoSg)的方式，向我反馈。
 - 🔴：为了让大家能更平滑地学习高级篇的内容，我会在基础篇提一些高级篇的概念，当你看到这个红色圆时，就表示这是高级内容，你可以不深究，先了解即可。
 
 ## 🤝 如何贡献一份你的力量？
 
 如果可以的话，不妨在 Github Page 上给我点赞，或者将本教程分享给其他人。感谢~
 
-在阅读这个文档的时候：
-
-1. 遇到错别字、句子不通顺，亦或者读不懂的地方，欢迎通过 Issue 或[表单](https://mcousdyt7h.feishu.cn/share/base/form/shrcn8p8MEmbkTiCDyVVPmdUoSg)的方式，反馈给我，我会对其进行修改。一经采纳会将你的名字罗列在感谢人名单内。
-2. AI 的发展非常快，今天写的教程，很有可能明天就过期了。如果你在文档里看到有什么落后的内容，比如某些指令已经不需要了，或指令不生效了，也欢迎通过 Issue 或[表单](https://mcousdyt7h.feishu.cn/share/base/form/shrcn8p8MEmbkTiCDyVVPmdUoSg)的方式，向我反馈。
-3. 看到标有 🆘 的内容，然后你又有不错的想法，不妨通过 Issue 或[表单](https://mcousdyt7h.feishu.cn/share/base/form/shrcn8p8MEmbkTiCDyVVPmdUoSg)的方式，向我反馈你的想法。
 
 在感谢人名单页面里，我会罗列帮助过我的朋友们 😁
 
-最后，你也可以给我[买一杯咖啡](https://www.buymeacoffee.com/thinkingjimmy)。或者购买我的其他付费内容产品：
-
-- [播客小捕手：](https://xiaobot.net/p/xiaobushous1?refer=599951e8-47eb-4898-aa3b-a7d0a1a06b0f)如果你喜欢播客，不妨看看，未来我会在上面尝试更多 AI 相关的想法。
-- [随意搜寻 | 2023](https://xiaobot.net/p/suiyisouxun2023?refer=599951e8-47eb-4898-aa3b-a7d0a1a06b0f) ：我的付费 newsletter，每周更新。
 
 ## ❤️ 感谢
 
