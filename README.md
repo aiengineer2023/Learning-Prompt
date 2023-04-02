@@ -8,8 +8,7 @@
     <a href="https://wiki.aimaps.cn/">阅读教程</a>
 </h4>
 </div>
-![知识星球‘AIGC中国社区’ 2](https://user-images.githubusercontent.com/129513053/229329015-c21f4011-a7a2-47ca-ad02-6469e6d2468f.png)
-
+<p><img src="https://user-images.githubusercontent.com/129513053/229329015-c21f4011-a7a2-47ca-ad02-6469e6d2468f.png"></p>
 ## 😎 关于本教程
 
 如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；
