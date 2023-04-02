@@ -5,11 +5,10 @@
    <strong>免费 Prompt Engineering 教程</strong>
 </p>
 <h4>
-    <a href="https://learningprompt.wiki/">阅读教程</a>
-    <span> | </span>
-    <a href="https://mcousdyt7h.feishu.cn/share/base/form/shrcn8p8MEmbkTiCDyVVPmdUoSg">填写反馈表单</a>
+    <a href="https://wiki.aimaps.cn/">阅读教程</a>
 </h4>
 </div>
+![知识星球‘AIGC中国社区’ 2](https://user-images.githubusercontent.com/129513053/229329015-c21f4011-a7a2-47ca-ad02-6469e6d2468f.png)
 
 ## 😎 关于本教程
 
